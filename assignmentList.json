@@ -1,0 +1,233 @@
+[
+  {
+    "id": 0,
+    "title": "JAVAVA JAVAVA VAVAJA VAVAJA",
+    "lecture": "자바프로그래밍",
+    "prof": "최희식",
+    "date": "2023-05-01",
+    "detail": "자바바 자바바 바바자 바바자\n자바와 자바스크립트는 다른거야.\n자바와 자바스크립트는 다른거야.\n자바와 자바스크립트는 다른거야.\n자바와 자바스크립트는 다른거야.\n자바와 자바스크립트는 다른거야.\n자바와 자바스크립트는 다른거야.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 1,
+    "title": "Assignment 08 (Solution attached)",
+    "lecture": "데이터분석",
+    "prof": "권태수",
+    "date": "2023-05-01",
+    "detail": "Please upload your solutions, through very carefully reading the below submission guidelines.\n\n1. Python practices\no Please refer to lecture note 09.\no 'Hitters.csv' and 'results_651' files are attached (in datasets.zip).\no Please upload your own ipynb file.\n\n2-1. Textbook - Conceptual\no Problems(Chapter6) 1, 2, 3, 4\n\n2-2. Textbook - Applied\no None",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 2,
+    "title": "개인별 직업 포트폴리오 제출",
+    "lecture": "취창업진로설계",
+    "prof": "안민홍",
+    "date": "2023-05-05",
+    "detail": "과제2\n\n1. 전학년 이클래스로 과제2 제출\n- 1학년은 통합정보시스템에도 제출 필수\n- 마감기한: 5/5\n\n2. 1학년 특이사항\n- 통합정보시스템에 과제 제출 후 컨설팅받고 최종본까지 통합정보시스템에 업로드해야 함\n(장학금을 받기 위함)\n- 최종본 마감기한: 6/2\n\n3. 제출양식\n- 반드시 한글파일로 제출\n(부득이한 경우, PDF 제출 가능)",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 3,
+    "title": "미드텀 프로젝트",
+    "lecture": "인공지능기초와활용",
+    "prof": "박종열",
+    "date": "2023-05-05",
+    "detail": "CIFAR10 dataset을 사용하여 신경망 모델 학습\n\n1. IamgeDataGenerator를 사용\n2. 학습후 loss, val_loss, acc, val_acc 그래프로 그려서 출력\n3. 가장 높은 성능 도전\n\n자세한 내용은 첨부 파일과 온라인 강의 설명을 참조\n\n제출기한: 4월 30일\n\n과제는 개인별로 진행하며, 타인의 프로그램을 복사하는 경우 개별 면담 및 F 학점 처리함\n\n추신1, 지각제출은 허용하나 성능적인 이득이 없는 경우는 감점 적용\n추신2. 중간고사를 대체하는 과제로 미 제출시 심각한 불이익이 있음",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 4,
+    "title": "SWOT분석 해보기",
+    "lecture": "기술과경영",
+    "prof": "이학연",
+    "date": "2023-05-06",
+    "detail": "SWOT 분석을 통해 기업 분석을 진행해보자.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 5,
+    "title": "Assignment 09 (Solution attached)",
+    "lecture": "데이터분석",
+    "prof": "권태수",
+    "date": "2023-05-08",
+    "detail": "Please upload your solutions, through very carefully reading the below submission guidelines.\n\n1. Python practices\no Please refer to lecture note 09.\no 'Hitters.csv' and 'results_651' files are attached (in datasets.zip).\no Please upload your own ipynb file.\n\n2-1. Textbook - Conceptual\no Problems(Chapter6) 1, 2, 3, 4\n\n2-2. Textbook - Applied\no None",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 6,
+    "title": "HW3",
+    "lecture": "딥러닝",
+    "prof": "황상흠",
+    "date": "2023-05-10",
+    "detail": "HW3 파일을 첨부합니다. 제출은 5월 10일 23:59 까지입니다.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 7,
+    "title": "Assignment 10 (Solution attached)",
+    "lecture": "데이터분석",
+    "prof": "권태수",
+    "date": "2023-05-16",
+    "detail": "Please upload your solutions, through very carefully reading the below submission guidelines.\n\n1. Python practices\no Please refer to lecture note 09.\no 'Hitters.csv' and 'results_651' files are attached (in datasets.zip).\no Please upload your own ipynb file.\n\n2-1. Textbook - Conceptual\no Problems(Chapter6) 1, 2, 3, 4\n\n2-2. Textbook - Applied\no None",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 8,
+    "title": "회계처리 과제",
+    "lecture": "기술과경영",
+    "prof": "이학연",
+    "date": "2023-05-16",
+    "detail": "분식 회계란 무엇인지 조사하고, 실제 사례를 스크랩해서 워드 파일로 제출해주세요.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 9,
+    "title": "HW4",
+    "lecture": "딥러닝",
+    "prof": "황상흠",
+    "date": "2023-05-17",
+    "detail": "HW4 파일을 첨부합니다.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 10,
+    "title": "Python Term Project",
+    "lecture": "데이터분석",
+    "prof": "권태수",
+    "date": "2023-05-19",
+    "detail": "[과제내용]\n \n: 아래 4가지 사항 문구 그대로 보고서에 포함시킨 후 답안 작성(텍스트, 그림, 표 활용)하는 형식으로 보고서 작성\n  - 단, 1,2,3,4 문제문구만 포함시키고 'o' 이후의 보충설명 문구는 포함시키지 않기\n \n: 1-4 항목 각각에 대해서는 자유양식\n \n1. 분석할 데이터에 대해 설명하고, 해당 데이터 분석의 목적을 서술하시오.\n  o 해당 데이터는 수업 과제에서 제공된 데이터, 본인이 자체적으로 수집한 데이터, 가상적으로 발생시킨 데이터, 모두 무방함\n  o 단, 해당데이터에 대한 의미설명과, 데이터분석 과제의 목표 제시가 있어야 함\n   \n2. 위 데이터를 분석하기 위한 파이썬 코드를 작성하고 해당 코드 전체 동작에 대해 간략히 설명하시오.\n  o 파이썬 코드는 '보고서'에는 포함시키지 않고, 설명만 포함하기\n  o 파이썬 코드는 ipynb 형식으로, 소스코드와 실행결과 모두를 포함하여 별도 제출하기\n \n3. 파이썬 코드를 통해 실행한 결과들을 바탕으로 데이터 분석 결과를 서술하시오.\n   o 코드 실행결과의 표, 그래프 등을 포함시켜 해당 결과들을 해석하는 설명을 서술하기  \n \n4. 위 파이썬 코드에서, 수업시간에 실습한 library code 및 내용들이 어떻게 활용되고 반영되었는지 설명하시오.\n  o 수업시간에 배웠던 내용들이 충실히 반영된 경우, 보다 높은 점수 부여 -> 사실상 4번 항목이 배점 가장 높음\n  o 특히 외부 open source를 그대로 copy&paste 하거나 구글링을 통해 구한 python 코드를 이용할 경우 매우 낮은 점수가 부여될 수도 있음. 즉 반드시 본인이 직접 구현 필요.\n ",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 11,
+    "title": "미니프로젝트",
+    "lecture": "웹프로그래밍",
+    "prof": "정진우",
+    "date": "2023-05-20",
+    "detail": "미니 프로젝트!",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 12,
+    "title": "액티비티 레이아웃 구현",
+    "lecture": "모바일프로그래밍",
+    "prof": "정진우",
+    "date": "2023-05-21",
+    "detail": "메인 액티비티의 레이아웃을 구현하도록 하세요!\n프로젝트를 압축하여 제출하면 됩니다☺",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 13,
+    "title": "탭 레이아웃 구현",
+    "lecture": "모바일프로그래밍",
+    "prof": "정진우",
+    "date": "2023-05-21",
+    "detail": "탭 레이아웃을 구현하도록 하세요! 프로젝트를 압축하여 제출하면 됩니다☺",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 14,
+    "title": "File IO",
+    "lecture": "파이썬프로그래밍",
+    "prof": "정진우",
+    "date": "2023-05-23",
+    "detail": "파이썬을 이용하여 파일을 불러오고 읽고 저장하는 과제를 수행해주세요!\n다들 화이팅입니다!",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 15,
+    "title": "Assignment 11 (Solution attached)",
+    "lecture": "데이터분석",
+    "prof": "권태수",
+    "date": "2023-05-23",
+    "detail": "Please upload your solutions, through very carefully reading the below submission guidelines.\n\n1. Python practices\no Please refer to lecture note 09.\no 'Hitters.csv' and 'results_651' files are attached (in datasets.zip).\no Please upload your own ipynb file.\n\n2-1. Textbook - Conceptual\no Problems(Chapter6) 1, 2, 3, 4\n\n2-2. Textbook - Applied\no None",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 16,
+    "title": "학과(전공) 별 커리어 로드맵 작성",
+    "lecture": "취창업진로설계",
+    "prof": "안민홍",
+    "date": "2023-05-26",
+    "detail": "학과(전공) 별 커리어 로드맵 작성\n\n*첨부 파일을 다운 받아서 작성한 후, 제출해 주세요.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 17,
+    "title": "은행 계좌 시스템 만들기",
+    "lecture": "파이썬프로그래밍",
+    "prof": "정진우",
+    "date": "2023-05-29",
+    "detail": "은행 계좌 시스템을 만들어주세요. 첨부파일에 자세하게 기능 명세가 되어있습니다.\n보너스까지 두둑하게 준비했으니 열심히 완료해주시길 바랍니다.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 18,
+    "title": "마지막 과제",
+    "lecture": "경제성공학",
+    "prof": "안재경",
+    "date": "2023-05-29",
+    "detail": "종강 전 마지막 과제입니다. IRR 200개를 계산해오세요.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 19,
+    "title": "최신 기술 동향 파악 보고서 작성",
+    "lecture": "생산관리",
+    "prof": "장성용",
+    "date": "2023-05-29",
+    "detail": "4차 산업혁명시대의 생산관리 관련 기술 동향 및 작용 사례 조사에 관련된 논문을 작성하여 제출하시오. 4학년때 학과에서 시행하는 캡스톤디자인 논문 작성 양식을 참고하여 작성하되 10쪽 이상이 되도록 작성하여 제출하기 바랍니다.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 20,
+    "title": "아이겐 아이겐 벡터",
+    "lecture": "선형대수학",
+    "prof": "이강원",
+    "date": "2023-05-30",
+    "detail": "Let's go HW5.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  }
+]
