@@ -13,10 +13,19 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
   return (
     <div id="app">
+      {/* Header UI */}
       <Header />
+
+      {/* 교육현황, 커뮤니티, 소개 UI */}
       <GnuIndex />
+
+      {/* 일정 컴포넌트(기능 구현은 여기에 다 담겨있음) */}
       <Schedule />
+
+      {/* Footer UI */}
       <Footer />
+
+      {/* Toast Library */}
       <ToastContainer
         position="bottom-right"
         autoClose={3000}
