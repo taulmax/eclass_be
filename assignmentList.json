@@ -34,11 +34,11 @@
   },
   {
     "id": 3,
-    "title": "미드텀 프로젝트",
-    "lecture": "인공지능기초와활용",
-    "prof": "박종열",
+    "title": "나만의 작은 홈페이지 만들기 줄여서 나작홈만.",
+    "lecture": "웹프로그래밍",
+    "prof": "정진우",
     "date": "2023-05-05",
-    "detail": "CIFAR10 dataset을 사용하여 신경망 모델 학습\n\n1. IamgeDataGenerator를 사용\n2. 학습후 loss, val_loss, acc, val_acc 그래프로 그려서 출력\n3. 가장 높은 성능 도전\n\n자세한 내용은 첨부 파일과 온라인 강의 설명을 참조\n\n제출기한: 4월 30일\n\n과제는 개인별로 진행하며, 타인의 프로그램을 복사하는 경우 개별 면담 및 F 학점 처리함\n\n추신1, 지각제출은 허용하나 성능적인 이득이 없는 경우는 감점 적용\n추신2. 중간고사를 대체하는 과제로 미 제출시 심각한 불이익이 있음",
+    "detail": "나만의 작은 홈페이지를 만들어보세요. 자유롭게 만들어서 오시면 됩니다.",
     "isDone": false,
     "userWritings": "",
     "userFiles": []
@@ -226,6 +226,50 @@
     "prof": "이강원",
     "date": "2023-05-30",
     "detail": "Let's go HW5.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 21,
+    "title": "자바보단 코틀린을 써보자",
+    "lecture": "자바프로그래밍",
+    "prof": "최희식",
+    "date": "2023-05-31",
+    "detail": "대세는 코틀린! 모바일 프로그래밍을 들어라!",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 22,
+    "title": "마지막 과제인줄 알았으나 진짜 마지막 과제",
+    "lecture": "경제성공학",
+    "prof": "안재경",
+    "date": "2023-05-31",
+    "detail": "서울과학기술대학교의 내년 FV를 구하시오.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 23,
+    "title": "기말 팀 프로젝트",
+    "lecture": "생산관리",
+    "prof": "장성용",
+    "date": "2023-05-31",
+    "detail": "서울과학기술대학교의 생산관리를 당신의 팀이 해야된다면 어떤걸 할지 작성해오시오.",
+    "isDone": false,
+    "userWritings": "",
+    "userFiles": []
+  },
+  {
+    "id": 24,
+    "title": "inverse esrevni xirtam matrix",
+    "lecture": "선형대수학",
+    "prof": "이강원",
+    "date": "2023-05-31",
+    "detail": "역행렬 렬행역 역행렬 렬행역",
     "isDone": false,
     "userWritings": "",
     "userFiles": []
