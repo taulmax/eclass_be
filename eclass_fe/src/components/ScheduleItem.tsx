@@ -1,10 +1,10 @@
 import React, { useCallback, useState } from "react";
 import ReactQuill from "react-quill";
 import Button from "./Button";
-import { useMyAxios } from "../util/api";
+import { useMyFetch } from "../util/api";
 import { toast } from "react-toastify";
 
-const { POST } = useMyAxios;
+const { POST } = useMyFetch;
 
 const ScheduleItem = ({
   id,

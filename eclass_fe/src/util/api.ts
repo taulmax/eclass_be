@@ -14,4 +14,4 @@ const POST = async (url: string, data: any) => {
   });
 };
 
-export const useMyAxios = { GET, POST };
+export const useMyFetch = { GET, POST };

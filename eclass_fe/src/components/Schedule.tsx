@@ -1,9 +1,9 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import Button from "./Button";
 import ScheduleItem from "./ScheduleItem";
-import { useMyAxios } from "../util/api";
+import { useMyFetch } from "../util/api";
 
-const { GET } = useMyAxios;
+const { GET } = useMyFetch;
 
 const Schedule = () => {
   const [assingmentList, setAssignmentList] = useState<any[]>([]);
