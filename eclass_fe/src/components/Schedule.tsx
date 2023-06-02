@@ -16,8 +16,8 @@ const Schedule = () => {
 
   // 처음에 미해결 과제 뽑아주기
   useEffect(() => {
-    GET("/unresolved").then((res) => {
-      setAssignmentList(res);
+    GET("/unresolved").then((data) => {
+      setAssignmentList(data);
       setMode("unresolved");
     });
   }, []);
