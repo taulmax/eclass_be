@@ -70,6 +70,7 @@ const Schedule = () => {
     }
   }, [onClickUnresolvedAssignment]);
 
+  // 헤더버튼 모드값에 따라 분기 처리
   const HeaderButton = () => {
     if (mode === "unresolved") {
       return (
